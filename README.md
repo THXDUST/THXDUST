@@ -1,10 +1,10 @@
 # INTRODUCING: ME
 
 - 👋 Hi, I’m @THXDUST
-- 👀 I’m interested in creating a Login/Singup page using SQL from scratch
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in machine level languages such as ASM
+- 🌱 I’m currently learning advanced SQL
 - 💞️ I’m looking to collaborate on open source codes idk
-- 📫 How to reach me: use this email: murdergamerbr@gmail.com
+- 📫 How to reach me: use this email: wiikmy.jb@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm 16yo
 
